@@ -1,4 +1,4 @@
-# Animación-2D-en-Krita
+# Animación 2D en Krita
 
 Krita es un programa profesional de pintura digital, gratuito y hecho con código libre, ha sido creado por artistas mismos que desean hacer estas herramientas accesibles para todos.
 
